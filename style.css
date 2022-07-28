@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.bg-image-1 {
+.bg-image {
     filter: brightness(50%);
 }
 
@@ -51,7 +51,7 @@ body {
 
 @media screen and (min-width:540px) and (max-width:840px) {
     .img-text {
-        padding-bottom: 20px;
+        padding-bottom: 50px;
     }
 
     .img-text h2 {
