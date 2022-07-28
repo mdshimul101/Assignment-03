@@ -29,9 +29,20 @@ body {
         font-size: 10px;
         padding: auto;
     }
+
+    .our-course h2,
+    h5 {
+        font-size: 20px;
+    }
+
+    .our-course p,
+    p {
+        font-size: 12px;
+    }
 }
 
 @media screen and (min-width:420px) and (max-width:540px) {
+
 
     .img-text {
         padding-bottom: 0;
